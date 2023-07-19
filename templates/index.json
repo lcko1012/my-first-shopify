@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "header": {
+      "type": "header"
+    },
+    "slide-show": {
+      "type": "slideshow"
+    },
+    "footer": {
+      "type": "footer"
+    }
+  },
+  "order": [
+    "header",
+    "slide-show",
+    "footer"
+  ]
+}

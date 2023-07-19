@@ -1,0 +1,17 @@
+[
+  {
+    "name": "setting1",
+    "settings": [
+      {
+        "type": "text",
+        "id": "setting1",
+        "label": "TEXT"
+      }, {
+        "type": "font_picker",
+        "id": "heading_font",
+        "label": "Heading font",
+        "default": "helvetica_n4"
+      }
+    ]
+  }
+]
